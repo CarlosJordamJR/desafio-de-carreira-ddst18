@@ -45,9 +45,9 @@ Criando e usando objetos: aprendi a criar objetos, adicionar e acessar proprieda
 Na parte de carreira aprendi as melhores práticas de como otimizar o LinkedIn para atrair o interesse de techrecruiter e tornar meu perfil relevante para recrutadores.
 Aprendi a importância e algumas técnicas para a gestão do tempo e organização de tarefas. Uma vez que a atuação do desenvolvedor não se resume a escrever código.
 
-## O que espero aprender no próximo módulo
+## Modulo 2
 
-Como já mencionei tenho familiaridade com outras linguagens de programação com base nos conteúdos propostos na emenda do curso espero dominar os conceitos de Funções, Tipagem de dados, Tipos Utilitários e Métodos em javascript tal como é feito em outras linguagens.
+Como já mencionei tenho familiaridade com outras linguagens de programação mas foi interessante aprender e apliar meus conceitos sobre de Funções, Tipagem de dados, Tipos Utilitários e Métodos em javascript.
 
 **Funções:**
 Conceito de funções: Como criar e definir funções para organizar o código em blocos reutilizáveis.
@@ -71,3 +71,63 @@ Métodos para manipulação: push(), pop(), shift(), unshift(), splice(), slice(
 Métodos para busca: indexOf(), lastIndexOf(), find(), findIndex().
 Métodos para iteração: forEach(), map(), filter(), reduce(), every(), some().
 Utilizando métodos de array em exemplos práticos: Como aplicar os métodos para resolver problemas e organizar dados em arrays.
+*observação especial ao fato de que alguns métodos retornam valores fazendo uma cópia da variável(array) sem alterar a variável original, enquanto outros métodos reescrevem a variável.
+
+**CARREIRA**
+
+Tivemos também aulas na parte da formação profissional sobre metodologias ágeis e como a organização e gestão do trabalho em tecnologia evoluiu à partir do modelo de cascata, hoje já bem obsoleto para os diversos modelos e metodologias ágeis.
+
+Tivemos ainda aulas sobre a importância que uma documentação tem no desenvolvimento de tecnologia. Seja a prática do estudo da documentação, bem com as boas prátias de como documentar seu próprio processo. Registrando por exemplo o que uma função deve realizar num código ou os principais parâmetros utilizados.
+
+Por fim tivemos aula sobre questões de inclusão e acessibilidade e a importância que times múltiplos têm para o sucesso no desenvolvimento de um produto ou projeto.
+
+**O que espero aprender no proximo módulo (3)**
+
+Com base na ementa proposta e nas linguagens de programação que já tenho alguma familiaridade alguns dos pontos que espero que sejam abordados no próximo módulo:
+
+**1. Testes Automatizados:**
+
+Aprender a escrever testes unitários para código JavaScript, garantindo qualidade e confiabilidade.
+Explorar frameworks de teste como Jest, Mocha e Jasmine ou algum mais específico da linguagem para automatizar testes.
+Conhecer boas práticas para escrever e documentar testes eficazes, abrangendo diferentes tipos de testes (unitários, de integração, etc.).
+
+**2. Primeiro Servidor:**
+
+Como construir um servidor web utilizando Node.js.
+Aprender a lidar com requisições HTTP.
+Ter maior familiaridade com os conceitos básicos da comunicação cliente-servidor.
+
+**3. Rotas, Intermediários e Controladores:**
+
+Estrutura de servidor de forma organizada, utilizando rotas para definir os endpoints da sua API.
+Utilização de middleware para realizar tarefas comuns como autenticação, validação e logging.
+Implementação de controladores para organizar a lógica de resposta às requisições HTTP, provavelmente separando a lógica de negócio do código de servidor.
+
+**4. API REST:**
+
+Dominar os princípios do REST, construindo APIs robustas e eficientes para seu backend.
+Utilizar verbos HTTP (GET, POST, PUT, DELETE) para gerenciar recursos da sua API de forma padronizada.
+Aprender a documentar APIs de forma clara e completa, utilizando ferramentas como Swagger ou Postman.
+
+**5. Orientação a Objetos:**
+
+Programação orientada a objetos em JavaScript, utilizando classes, objetos, atributos e métodos para organizar seu código.
+Explorar conceitos como herança e polimorfismo para promover a reutilização de código e modularidade.
+Utilizar padrões de design para criar código mais estruturado, eficiente e manutenível.
+
+**6.  Assincronismo e Leitura/Escrita em Arquivos:**
+
+Aprender operações assíncronas em JavaScript, utilizando callbacks, promises e async/await.
+Trabalhar com arquivos de forma eficiente, para leitura e escrita de dados.
+Gerenciar erros de forma adequada durante operações assíncronas e de arquivos, garantindo a robustez da sua aplicação.
+
+**7. Generics**:
+Entender o uso de generics em JavaScript com TypeScript, permitindo a criação de código genérico e flexível.
+Parametrizar tipos para criar funções e classes que podem ser reutilizadas com diferentes tipos de dados.
+
+
+**8. Tratamento de Erros com Express:**
+
+Aprender a implementar um sistema de tratamento de erros provavelmente usando Express.js, para garantir a robustez e a segurança do seu backend.
+Aprender a lidar com diferentes tipos de erros (validação, servidor, aplicação) de forma eficiente.
+Aprender a utilizar middleware para tratar erros de forma centralizada, garantindo consistência e facilidade de manutenção.
